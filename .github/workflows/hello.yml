@@ -4,6 +4,5 @@ jobs:
   say-hello:
     runs-on: ubuntu-latest
     steps: 
-      -name: Print a greeting
       -run: echo "hello from Github Actiom"
 
